@@ -6,8 +6,7 @@
   <a href="https://www.linkedin.com/in/hanna-kaibni-972457297/" target="_blank">
     <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&cache_seconds=3600"/>
   </a>
-  <a href="https://github.com/HannaXTX?tab=followers" target="_blank">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/HannaXTX?color=55960c&labelColor=488207&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+
 
 </p>
 
