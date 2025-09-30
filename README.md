@@ -1,6 +1,6 @@
 ##  Hanna Kaibni
 
-`Computer Engineer`
+`.`
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hanna-kaibni-972457297/" target="_blank">
